@@ -1,6 +1,6 @@
-import javax.swing. * ;
-import java.awt.event. * ;
-import java.awt. * ;
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.*;
 
 public class Pacman implements MouseListener,
 KeyListener {
