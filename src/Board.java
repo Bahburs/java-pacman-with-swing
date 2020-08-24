@@ -1,8 +1,8 @@
-import java.awt. * ;
+import java.awt.*;
 import javax.swing.JPanel;
 import java.lang.Math;
-import java.util. * ;
-import java.io. * ;
+import java.util.*;
+import java.io.*;
 
 class Mover {
 
